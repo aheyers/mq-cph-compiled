@@ -1,9 +1,9 @@
 Set these variales on the system in bindings mode:
 
-For ruby:
+For Perl:
 PERL5LIB = C:\Users\Administrator\Desktop\rr_1\qm_setup
 
-For mq:
+For MQ:
 MQ_INSTALLATION_PATH = C:\Program Files\IBM\MQ
 MQ_DATA_PATH = C:\Program Files\IBM\MQ
 MQ_FILE_PATH = C:\Program Files\IBM\MQ
